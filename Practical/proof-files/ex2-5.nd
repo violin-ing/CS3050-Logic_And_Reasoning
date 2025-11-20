@@ -1,0 +1,4 @@
+1.	forall(x)forall(y)R(x, y)	-premiss :
+2.	| z0 forall(y)R(z0,y)			A-e : 1[z0/x]
+3.	|    R(z0,z0)							A-e : 2[z0/y]
+4.	forall(z)R(z,z)						A-i : 2-3

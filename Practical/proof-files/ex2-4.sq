@@ -1,0 +1,1 @@
+exists(x)(P(x) & Q(x))	|-	(exists(y)R(y) & exists(z)Q(z))
