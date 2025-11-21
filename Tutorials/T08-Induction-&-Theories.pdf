@@ -1,0 +1,927 @@
+%PDF-1.7
+%ÌÕÁÔÅØĞÄÆ
+4 0 obj
+<< /Type /Metadata /Subtype /XML  /Length 37686 >>      
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+                     xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+                     xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+                     xmlns:dc="http://purl.org/dc/elements/1.1/"
+                     xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+                     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+                     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+                     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+                     xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/"
+                     xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/"
+                     xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+                     xmlns:prism="http://prismstandard.org/namespaces/basic/3.0/"
+                     xmlns:jav="http://www.niso.org/schemas/jav/1.0/"
+                     xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+                     xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
+                     xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+                     xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
+                     xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
+                     xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#"
+                     xmlns:pdfaType="http://www.aiim.org/pdfa/ns/type#"
+                     xmlns:pdfaField="http://www.aiim.org/pdfa/ns/field#">
+      <pdfaExtension:schemas>
+        <rdf:Bag>
+          <rdf:li rdf:parseType="Resource">
+            <pdfaSchema:schema>Adobe PDF Schema</pdfaSchema:schema>
+            <pdfaSchema:prefix>pdf</pdfaSchema:prefix>
+            <pdfaSchema:namespaceURI>http://ns.adobe.com/pdf/1.3/</pdfaSchema:namespaceURI>
+            <pdfaSchema:property>
+              <rdf:Seq>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>Trapped</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>Indication if the document has been modified to include trapping information</pdfaProperty:description>
+                </rdf:li>
+              </rdf:Seq>
+            </pdfaSchema:property>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <pdfaSchema:schema>XMP Media Management Schema</pdfaSchema:schema>
+            <pdfaSchema:prefix>xmpMM</pdfaSchema:prefix>
+            <pdfaSchema:namespaceURI>http://ns.adobe.com/xap/1.0/mm/</pdfaSchema:namespaceURI>
+            <pdfaSchema:property>
+              <rdf:Seq>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>DocumentID</pdfaProperty:name>
+                  <pdfaProperty:valueType>URI</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>UUID based identifier for all versions and renditions of a document</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>InstanceID</pdfaProperty:name>
+                  <pdfaProperty:valueType>URI</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>UUID based identifier for specific incarnation of a document</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>VersionID</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>Document version identifier</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>RenditionClass</pdfaProperty:name>
+                  <pdfaProperty:valueType>RenditionClass</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>The manner in which a document is rendered</pdfaProperty:description>
+                </rdf:li>
+              </rdf:Seq>
+            </pdfaSchema:property>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <pdfaSchema:schema>PRISM Basic Metadata</pdfaSchema:schema>
+            <pdfaSchema:prefix>prism</pdfaSchema:prefix>
+            <pdfaSchema:namespaceURI>http://prismstandard.org/namespaces/basic/3.0/</pdfaSchema:namespaceURI>
+            <pdfaSchema:property>
+              <rdf:Seq>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>complianceProfile</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>PRISM specification compliance profile to which this document adheres</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>publicationName</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Publication name</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>aggregationType</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Publication type</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>bookEdition</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Edition of the book in which the document was published</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>volume</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Publication volume number</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>number</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Publication issue number within a volume</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>pageRange</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Page range for the document within the print version of its publication</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>issn</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>ISSN for the printed publication in which the document was published</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>eIssn</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>ISSN for the electronic publication in which the document was published</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>isbn</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>ISBN for the publication in which the document was published</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>doi</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Digital Object Identifier for the document</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>url</pdfaProperty:name>
+                  <pdfaProperty:valueType>URL</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>URL at which the document can be found</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>byteCount</pdfaProperty:name>
+                  <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>Approximate file size in octets</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>pageCount</pdfaProperty:name>
+                  <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>Number of pages in the print version of the document</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>subtitle</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Document's subtitle</pdfaProperty:description>
+                </rdf:li>
+              </rdf:Seq>
+            </pdfaSchema:property>
+          </rdf:li>
+        </rdf:Bag>
+      </pdfaExtension:schemas>
+      <pdf:Producer>LuaHBTeX, Version 1.22.0 (TeX Live 2025)</pdf:Producer>
+      <pdf:Keywords>Logic, Proof Techniques, First Order Arithmetic, GÃ¶del incompleteness</pdf:Keywords>
+      <pdf:PDFVersion>1.7</pdf:PDFVersion>
+      <xmpRights:Marked>True</xmpRights:Marked>
+      <dc:format>application/pdf</dc:format>
+      <dc:title>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">CS3050: Exercise Sheet â€” Induction II and First Order Theories</rdf:li>
+        </rdf:Alt>
+      </dc:title>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Logic and Reasoning</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:rights>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Copyright Â© 2025: Susmit Sarkar</rdf:li>
+        </rdf:Alt>
+      </dc:rights>
+      <dc:date>
+        <rdf:Seq>
+          <rdf:li>2025-11-19T10:35:53Z</rdf:li>
+        </rdf:Seq>
+      </dc:date>
+      <dc:type>
+        <rdf:Bag>
+          <rdf:li>Text</rdf:li>
+        </rdf:Bag>
+      </dc:type>
+      <dc:creator>
+        <rdf:Seq>
+          <rdf:li>Susmit Sarkar</rdf:li>
+          <rdf:li>Computer Science</rdf:li>
+          <rdf:li>University of St Andrews</rdf:li>
+        </rdf:Seq>
+      </dc:creator>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>Logic</rdf:li>
+          <rdf:li>Proof Techniques</rdf:li>
+          <rdf:li>First Order Arithmetic</rdf:li>
+          <rdf:li>GÃ¶del incompleteness</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <dc:source>Exercise-Induction_and_Theories.tex</dc:source>
+      <xmp:CreateDate>2025-08-15T12:00:00Z</xmp:CreateDate>
+      <xmp:ModifyDate>2025-11-19T10:35:53Z</xmp:ModifyDate>
+      <xmp:MetadataDate>2025-11-19T10:35:53Z</xmp:MetadataDate>
+      <xmp:CreatorTool>Emacs 29.3 on Ubuntu Linux 24.04</xmp:CreatorTool>
+      <xmpMM:DocumentID>uuid:b1339546-754c-4462-a759-59595462b620</xmpMM:DocumentID>
+      <xmpMM:InstanceID>uuid:88dc4c46-7fd1-4d1d-8ea8-2b62054c4620</xmpMM:InstanceID>
+      <xmpMM:VersionID>1</xmpMM:VersionID>
+      <xmpMM:RenditionClass>default</xmpMM:RenditionClass>
+      <prism:complianceProfile>three</prism:complianceProfile>
+      <prism:byteCount>59765</prism:byteCount>
+      <prism:pageCount>1</prism:pageCount>
+      <xmpTPg:Fonts>
+        <rdf:Bag>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-Regular</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-Bold</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-Bold</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Roman</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Roman</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Roman.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Roman</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Roman</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Roman.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Roman</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Roman</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Roman.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Bold</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Bold</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Italic</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Italic</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Slanted</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Slanted</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Slanted.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Bold Italic</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-BoldItalic</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-BoldItalic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Bold Slanted</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-BoldSlanted</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-BoldSlanted.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Roman</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Roman</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Roman.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Anonymous Pro</stFnt:fontFace>
+            <stFnt:fontFamily>Anonymous Pro</stFnt:fontFamily>
+            <stFnt:fontName>AnonymousPro</stFnt:fontName>
+            <stFnt:versionString>1.002</stFnt:versionString>
+            <stFnt:fontFileName>AnonymousPro-Regular.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Anonymous Pro</stFnt:fontFace>
+            <stFnt:fontFamily>Anonymous Pro</stFnt:fontFamily>
+            <stFnt:fontName>AnonymousPro</stFnt:fontName>
+            <stFnt:versionString>1.002</stFnt:versionString>
+            <stFnt:fontFileName>AnonymousPro-Regular.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Anonymous Pro</stFnt:fontFace>
+            <stFnt:fontFamily>Anonymous Pro</stFnt:fontFamily>
+            <stFnt:fontName>AnonymousPro</stFnt:fontName>
+            <stFnt:versionString>1.002</stFnt:versionString>
+            <stFnt:fontFileName>AnonymousPro-Regular.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Anonymous Pro Bold Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Anonymous Pro</stFnt:fontFamily>
+            <stFnt:fontName>AnonymousPro-BoldItalic</stFnt:fontName>
+            <stFnt:versionString>1.002</stFnt:versionString>
+            <stFnt:fontFileName>AnonymousPro-BoldItalic.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Anonymous Pro Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Anonymous Pro</stFnt:fontFamily>
+            <stFnt:fontName>AnonymousPro-Bold</stFnt:fontName>
+            <stFnt:versionString>1.002</stFnt:versionString>
+            <stFnt:fontFileName>AnonymousPro-Bold.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Anonymous Pro Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Anonymous Pro</stFnt:fontFamily>
+            <stFnt:fontName>AnonymousPro-Italic</stFnt:fontName>
+            <stFnt:versionString>1.002</stFnt:versionString>
+            <stFnt:fontFileName>AnonymousPro-Italic.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Anonymous Pro Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Anonymous Pro</stFnt:fontFamily>
+            <stFnt:fontName>AnonymousPro-Bold</stFnt:fontName>
+            <stFnt:versionString>1.002</stFnt:versionString>
+            <stFnt:fontFileName>AnonymousPro-Bold.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Anonymous Pro Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Anonymous Pro</stFnt:fontFamily>
+            <stFnt:fontName>AnonymousPro-Italic</stFnt:fontName>
+            <stFnt:versionString>1.002</stFnt:versionString>
+            <stFnt:fontFileName>AnonymousPro-Italic.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Anonymous Pro Bold Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Anonymous Pro</stFnt:fontFamily>
+            <stFnt:fontName>AnonymousPro-BoldItalic</stFnt:fontName>
+            <stFnt:versionString>1.002</stFnt:versionString>
+            <stFnt:fontFileName>AnonymousPro-BoldItalic.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>cmmi10</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>cmmi7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>cmmi6</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Roman</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Roman</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Roman.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Roman</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Roman</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Roman.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>cmmi12</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>cmmi8</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>cmmi6</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Math</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter Math</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Math</stFnt:fontName>
+            <stFnt:versionString>0.66</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Math.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Roman</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Roman</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Roman.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Roman</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Roman</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Roman.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Italic</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Italic</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Italic</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Italic</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>XCharter Italic</stFnt:fontFace>
+            <stFnt:fontFamily>XCharter</stFnt:fontFamily>
+            <stFnt:fontName>XCharter-Italic</stFnt:fontName>
+            <stFnt:versionString>1.221</stFnt:versionString>
+            <stFnt:fontFileName>XCharter-Italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+        </rdf:Bag>
+      </xmpTPg:Fonts>
+      <xmpTPg:NPages>1</xmpTPg:NPages>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+<?xpacket end="w"?>
+
+endstream
+endobj
+6 0 obj
+<< /Filter /FlateDecode /Length 2626 >>       
+stream
+xÚí[Éã¼¾ÏSø†a±ª¸ iûşóÜ‚\“SŞÿš¢¸ˆ¤DIî 	†m™K­_-dëÛ?núöÇ7}òşã×·¿¼nà”&ºıúû7_ônlU¸9ÔŠµ¹ıúçí¯Zº7Z> iñò²ùıÇı;ºø«‘'´¦øò.#é!Ÿã»•%œ_Ö¸ƒ“wÊ#—Ñ•§è}gd&½äÅwcå;Û;Ä÷¸*s\ùqë;`|şÊkÈÌûw ü!-F¦.V–w™8LrıE$ò¹°Rá•l.£yûøŒîûõg–-¨À®•­±  E¼Z+PÄ¥*ÜñGÕ3S¶RD‰ƒe¿Ÿåó²W]Ú“BÑ¤u¬VÍf%Åw»Ì(F¨Ô*hùë,€•‘…•·T’-õ«[ ”XHšbƒrÁŒs²xõİ,šrI“‹-ø¨ .5™İşi'ºMº¶Y<Ø¨Æc²‚´¶+OâœE¤ºQeQ(aucX±q#ş)&nŒ¬%ãıËÜ¿ÓòåÑh»]l•‹a£ `=²¹&æLı„ëo «ÒùÑÊ†±xÎ17h‚²~TKdàŒnDAmöèfZén•FÏì¦âæ£úÔ1Ş*2¸±5ÌÓHßœ²(İ¬`y/³¼"²y–X¹M(à ‚&~ø™ÔÆá‘T¶y¸ô„Ÿ?Û/ŸòzŠø_Çt“ì<ªB´F„Å[NELì”§ÑÔ4ûb°ó‚—Ñ@ò¨Æg6ößxQÅUV\·íÍª fÑwú–œˆ–q¯õVLK^ÂDÔ½„…,òö^`QÆá>ow‡\(m‡jƒı.+­\ÂB\–&‚;Ô0Œôtn¼?‡x &j/p F1ø~UÑØ‚-) 4¢,ŸA!ñş(ñ´½XçP'EG¤ñY)¤6
+gÅ<•”H^c{´VW¬uä÷óº˜–iÇ´{Ğç"€#óZË#&ƒ­› ï…J±§$ômh®4=µB,éŒ«ãº§Û¡ìæJğcê’&ã
+è¬‰eÙG’µ†±ØH?ì’“âv~­ëobj]a]óòEØìhöÔ [5aˆÁ`£'±Ãc°Ö¨¬3Ó÷ƒi'yÔÂ€y{<'“ B‡ÉlÔx[¬ä†ö]rIF3oèè%V6ìHµèÜ´‘HŸ§)zƒHÉ/Ö%¹É£éÕ…§â‹Ö*¶
+ï+n$°²—:ñˆD)ÛûyŒŠà´r’¾ŒÄ>³DÂ	Aâ'»Ñ—Çß!¢˜î:š‰èÈŞ’bzBÉÁ¶ş1Ûƒ2z»á£qãY"¯¼¦ßÂ¶“¥ÜW¸öò0¢ÂÀu8¹¨`ÂõãšLJu´ÅİP“EÇ¶}¦7LŠµ¼ûØØÛŠ·	è©-Ùı˜z.ÎT¢`T¯¤œ³ò+š6û‘Oÿéç(V˜5š”dÓ³ï¤¬õI“-14ç#‘ÍE şî»	úTıV	 Œ\=õ9W¨y)4F¶.ÆÿÁov†;/n÷v®Á ¤k%oYTÎkíRAlÁœÄkñN7Ö¯sš	H…­°º"fkĞ}öšßKÃ…×Ü	j0ÌÍ'·Û|Z&h
+¸T%ãšáïTc2PY®$÷«úCJ8rRm‰HíÅz«ü¥Š«²/N÷Lã"rĞR³>Ù;^Vy Ş,‡ZËiù)€Ô¥Yû]½P…Aekt§¾ğ½\ûñï—fGä¹Ğ±ûµÄ8†X¡‰j~Ğsê^¾IWœ ÂÀÇU·6 
+Án6~nl Èóİ×¼ÃNé	ÖÆnªìƒÛ1°‚$Ö$*_!Yê3Ê?çÆ¸ÍIıJŒ%½¤åŒrFüZŒ!·;_‡Á¢ğD±ÏhÌO'•ïL‹ÎHÑç¤X­Ä·æâ½…¼UlÍŸTz®Ø.KZbáÜta!EÓ¬Y]\>›ìNDÎ)Í¦máõ {ÕšÁx…R“÷¢&HŠ`pC‡~íE8bÉ'Ğ­G™ßĞøM6m9k”åöß
+& ™=GPïÈô/8«Åd¸§µ:›ã¡–ğ%õö°ãi¨³ÔœÃg¾fÀ+çÃ»üÅÑÛ°á/ì%Î4¹"^sI²Âì0glÃ0…´‘á'Öi^ ĞÓĞÿìÊ€«9¶“ÎnH8,zñ û$L3T¥ÍZÒnèÿë'™ˆõØ²ö‘jVÜu|öËÀE8–„a·¿»Óa¼2ksÛÔoiÈªªG¹«AJ­á£éQó~ºUÏ?l)e€o‹›®çÛNS˜àØqÀW‹İÍAQ2l9À¬ıÈß™Ëœä†ˆ<¯jxt¤¼ŞlÒŸ‡Âù‰÷qÌ$\Ø¡¸I'
+ÙMXß£İŸÓÎ’¤²›í>wÃà¹ØxÌéƒa¿BáÊXJÁÜ#\z0“.3¹A…gÿVQ^KFB.çÛñÍe>è”üÆ³"Ü
+t?MĞZÑµo{P0nö,ÉÑJ‚ç0‹ZÔzgg=®ØDœ¨¥óšc)K¢)5è°l{šÜö¿VAÖÄÜz;!øØËß´”7îtQrÏ`Vmòt|6°a‚Ùmî­D¸”|3Ë²ãÒ%V-Ò÷gÇVI•>.—ÂXI›š>Õü.Ô<i>¬”¿Ğõm_ô¬…¢:ÒOÿûÁİ¨Ô²k©tÌõF)½69ÕÜôÒ€S‚rãr2,u¥&'NñÇK‡ E~è”wtQ~İà¥ë¤Ï»N=È~I´âo&Š¶ßÿ«¢xW>Š¶_®ƒMC”aó‡Øæ CQÜ‡±!eÜ!u‡³‡Ğµ@c–,·ÄPà‚bò¿Kd tp;"kÅÓf–{ÒÄÎxÏQÁY`…’½\ä„³~¼øÉµ³^z&c¾¯ŒºËWFÿ3|ÌFz9EÍ×:e§ƒxkù?3-
+¬—McN¹æıŸ%5Èğ¿Há„në”£0.unÜFQàqÚ—[ä jİR1w·‡"J¿%ğ+"B‘DïâŞ9ø‡ıªîxõz{¨wÁaÒ±RÛw›[¸Ã“µ2ONÀ›z›Öäj=b®+™ÏºÛrY´ÜõJNF»—°K.BÉÚ¬›µM/ÔÿÚİ*ãßÇãn‡¢»ïFÍ¥Ø$]l?Òè*ˆáá]çVS]íUñê®.GYŸ›Âez;¯kmpØ®Wgäå»Éƒ:Å²Åßâ5Ú—ÄWû—-ñæ•¸ñ_Ûğé¯‡KÏd¹ÍaóQàšk5KÕq=Éo&»:ù³N®Û>r¦Ÿ£dš¿…aoğh³kKêlâ»˜{ÓÖ6¡»‚Ã¤ÿcÆÿ*fÄsb	 ÿe !Ö¡‚DVˆILAC[–‡ÔÇÜÏ"ÅL­3ï{¿]¡ã’q&«â¬ ¯ÿIÓÍ~şúö/öêÚ
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Contents 6 0 R /Resources 5 0 R /MediaBox [ 0 0 595.276 841.89 ] /Parent 19 0 R >>
+endobj
+7 0 obj
+<< /D [ 3 0 R /XYZ 41.52 823.059 null ] >>
+endobj
+8 0 obj
+<< /D [ 3 0 R /XYZ 42.52 785.197 null ] >>
+endobj
+10 0 obj
+<< /D [ 3 0 R /XYZ 42.52 651.753 null ] >>
+endobj
+13 0 obj
+<< /D [ 3 0 R /XYZ 42.52 558.922 null ] >>
+endobj
+14 0 obj
+<< /D [ 3 0 R /XYZ 42.52 447.675 null ] >>
+endobj
+15 0 obj
+<< /D [ 3 0 R /XYZ 42.52 394.113 null ] >>
+endobj
+17 0 obj
+<< /D [ 3 0 R /XYZ 42.52 277.513 null ] >>
+endobj
+18 0 obj
+<< /D [ 3 0 R /XYZ 42.52 210.476 null ] >>
+endobj
+5 0 obj
+<< /Font << /F51 9 0 R /F39 11 0 R /F40 12 0 R /F67 16 0 R >> /ProcSet [ /PDF /Text ] >>
+endobj
+20 0 obj
+[ 66 [ 525 ] 68 [ 394 ] 70 [ 424 ] 72 [ 481 551 ] 77 [ 275 ] 79 [ 556 502 ] 83 [ 398 370 333 ] 87 [ 454 ] ]
+endobj
+22 0 obj
+<< /Filter /FlateDecode /Length 14 >>         
+stream
+xÚc`€ ­£s°
+endstream
+endobj
+23 0 obj
+<< /Subtype /CIDFontType0C /Filter /FlateDecode /Length 1682 >>       
+stream
+xÚm•}T“×ÇŸ'ÉC®.dÓ4íéÔğÌR‡S(`W'¶Cm¡M%ˆ ·ª„%æòF‚3 _öC•Ê«oŒò.«’¬Ô@­w”jQ'V·Îv]{øç>í“íì‰k×íl÷ïy~÷{ïïó½¿çüHB  H’|&K‘š™½"÷ÕB•Ùª1ÇÊ­*½V^’3?a–‚HÆ,&˜%$#ã1Q|†”‹x,!âOŠ¡G¡äÅ‚·®QK‚lúaXıŠ–rÂgEÑáxXô<xI<C,&¾$şAF"rùìÿ¿7!.11áUS‘Ó¬İUh¥Ö¬‰§UZe¤mÆ"[¾^k)ÔĞ%&³ÎwÒ´V‹Õ¬Qh¹QGÓëõzúÉFmÖX4f»¦ ÿıq1êåtb|üš•œ&Ä?Ñ„'šH¯7˜5N:'ÎPMöÿÙ”°*661>1VhÕ…*Îâò.Ò$Ñ)«ÆhÑšŒ´iç$ô-ı/¬¸Üÿ¿ÓMfƒJ¿¾À”¯‘hŒV­ÕIpcñ‘J¼AÈ	±‰È ²ˆ-D6¡äs.r#’ˆûùÑJüTò~ÌóñB|7ÿ– JP%˜¥’« À¤È@ ø§™h¦'•H™<JŠ;+&™EƒdóùLc—–Ø(}£ş˜	b é­ÜÕÚ,§Ş –7şæ,ŒÂh×ø%´_˜{Ê|Næ…á“ïµ¡a‘Ûy°vBiø ¡ºíØÔ‡S¨ÆéúÑ:bŸ/¥+Ùf*GMh³qè^õ ğ¼(ñÒ}Áşóø’Ÿlœáã Iª:Úà4h|[@r}nVÎfÃË,L}—áªoêCt^˜½%Ë´Bãÿ/¿şÕİ¨šñºŠ÷z/àÏ‘»8ïóğ	i7œøà}è†6+è!íµMì‚Jt@+Å©'?»³T¦Á¯àMcnNVÆîÕ°X4!WájÏT]nÎ_´Ô~¸MUMGØÉÏáGgqñHYÿBıÇGfŠ&ñò™×oKşJà?1Û¥’»„¾ÉpB,	?)¬9¾A’|V^¤u`7¸á@•;¡0OÑÚ9x–Í}4-ƒ‘bŸ²±«n@-§6Ÿh®ÿíq8Hò1÷hó¢Às°µ¢ÍD°¯DKã3R2ó‹{.Ê$÷ˆÇÓïtè2dì:vZŠ%”d²| ´ÅÅh{êÅµ[.\‘Áï}gƒÂ˜ÛÏˆ§°²ãLÉÂ¶Yœ÷ xVò¶|m•²	»Áüx?»äï‰³0…?¥¦.wh²C¸Ù*(UP’ĞÛa'¸@Õæ@'×{Whu;íå-\54õÔzQ/~’|s¼¯¶:À¯;­%(t¯¤¡38™jøCıåúQ$f­ş¯Ÿêì)!{ïğqa8‘•(~´oEÈE•)Ü°¶¶[ü\q¼[7ÑNû,îRØ&n®¡Ú{|}Å UU{´õX?Op„‘S›;ú¾Å»‰å\K†ÙğŞo~Šóı™’ÜœäÏ†	°\‡ÿMxû€íƒ#T·—ø¡†êÆŞA]¡ó	¡£™#l¬i­íFgÃ„79Â®ïs@±ûå4Ôò9%®®fâÉÖY\7ËÇ>¦Dú:¤½5ÓI\½][?×!è½pq,Ø}f GÊ?z«@:Ù¯ŒaW®cÉ—6íû¿p“¢ÄË<v†Äó8¶®û’ë8%ŒÕÿ=Ö}ÆeTÓ§¾‹_ ÉõÎìc@wzzl­Ú¨­°qÛÆxäÃK(1+­ècâŞ%/_ùòŸb(iÿºPï.oæŠäÔ52È(šÈ;§óZA9Z]&÷™OîiC-jÏIWí^@z{‰^éßu“Ó×>‰‚`~ç¦óoõ™<Ğƒ=]Cğ6Ôª«ä8©ò3o„üİ=>^ËÜ’nıé¦j²ÙvÊm:l…=î5L@/Œ5^ëF>¡Ú¥«´‚ì­ÀRİXİ‚Æğ;x%ÀA‰·sFü’+aßŸãÿ…qH—qÜvSÍåÇM5ÛPë¢ªÊªÊ ,mûh4§ãqçwŸÃ£…R(­ÜãB§X1Uœš›”ü3TŒ½Ôş;å½™€ÄáÎ÷#f‘h×¼ˆEáF»bJK›{N«=ÁA¢ùƒóïıàŸ;øCO
+endstream
+endobj
+21 0 obj
+<< /Type /FontDescriptor /FontName /SMNFRU+XCharter-Italic /Flags 4 /FontBBox [ -592 -427 1174 1230 ] /Ascent 980 /CapHeight 671 /Descent -236 /ItalicAngle -11 /StemV 93 /XHeight 482 /FontFile3 23 0 R /CIDSet 22 0 R >>
+endobj
+24 0 obj
+<< /Filter /FlateDecode /Length 405 >>        
+stream
+xÚ}’Íjë0…÷zŠé".\+ÿm	†{¼hZâÜK·4I±ddy‘·¯¤IZ(i6|3Ò™#n^«ä4;L&w6Ø™Ş
+LòçºeƒÁÊˆ¾AíÖˆå¥Ú=Â«5¢BÃ¼\•Z¹[/.µ8ö/ªë¢¿xPúKöáß’êy]lş%où{mÚ¤tõQ‰„‡¦­rG/şU¾×‹ù¶SF?Âèsî<i™›&Œ×±ôlÒ‹é½ÒÒ}Â.¸f£1H%Ü™âW4>§Ğ\:‡M©÷†-—n|±sö=ß²ôÅJ´J`xİ¢—T}Û1ØÎ²$îıÊ>Ÿuİ ¤aöRúªr§BøjÙZ„qäÙFb×Öm­È–>Á²ğOÆPËou?jlÛí…ß"È§c/ç|>Ê"M‰&Ds¢Ñ=Ñ‚èèhE”DO‘fœ¨ šDZŒ‰h¿í7›M‰Dó8ÈÙq)œÍg€¢·Ö§0fÒQ?Ï¸5mèŠo¼—[è¥`Úóf
+endstream
+endobj
+16 0 obj
+<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /BaseFont /SMNFRU+XCharter-Italic /DescendantFonts [ 25 0 R ] /ToUnicode 24 0 R >>
+endobj
+25 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /SMNFRU+XCharter-Italic /FontDescriptor 21 0 R /W 20 0 R /CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >> >>
+endobj
+26 0 obj
+[ 272 [ 551 ] 1279 [ 563 ] 1411 [ 524 ] 1417 [ 626 ] 1432 [ 454 ] 1434 [ 565 ] 1436 [ 335 ] 1447 [ 370 ] 1516 [ 432 432 728 ] ]
+endobj
+28 0 obj
+<< /Filter /FlateDecode /Length 26 >>         
+stream
+xÚc` 0¢80¬€ò ZM‰
+endstream
+endobj
+29 0 obj
+<< /Subtype /CIDFontType0C /Filter /FlateDecode /Length 1291 >>       
+stream
+xÚmTkL“gş>ÊÛ~Bí”®83,å¢Ñ©ƒéÆÜæ.ADAE^6„‘bÅ
+…	r©ÊÍœ¢€"mAJ•›Š8F§åÒ‚NİtºD4s2t·ó¹—¸µ?–eÉş<9yÎ9Ï“sNrXÆÕ•aYV¼.$2tíüÁÉñiÚ¤´…ñÚdg"”÷æ –ó^?‹åå.¼\ÀÏp¥¯ˆÏ^j½Ä³¼D×È,†a®¼àÄÇÓ½È¯b_GHÅşNæGñlFè°˜¹,rı–ÿó	|5(è?„bnÂ<Å¢ÀE‹:àÅòøTU’ZªVivşS§pÖ-KÜ©LZ™˜”ªUi³Nì4×¿È~r€ˆ‰Ô&ò˜üBÖ‘cÄŒØÅù1-Ì]Ö›msñr¹&X" Á€«Àu®Øù;k·c]`÷äıù““şBûä'2>{&CD’èÂn^2ˆ1õ8|o×ˆtô¸çâC2Ø×ÓĞmP	qW’QÊÅÑ"/Ê8y|·ÀZÙSÇ5Š´…»Kr!²Ái¨9TWŞÈµb ‘>[ŞõĞ½ıTÄ@ÄöwWs-ø>1^7ôº85Ğ×R íçıD6Şbc±b\ğ„ÿZ†óêËaòX~6B,>8ïW¦3ÿ<¨:ŒHŞû&+ÏêÁoé“jÌü8‹kÖC"•é§Y94á/V‡ÊÀJ+ ”ÃE•¹>“{rˆT³ºˆHÌ`ÅÊ.<Ù¥tˆìEF:jöÄÃVax™ÎØ:bÔ›õG¡,Å¦½ieq†õM”«Ûü;ÔB}iË!®]¨Ï?‘qK3–?´¸=n|ÜDè9ê'—Ş¦5JáµÂ£NÇœÜUEó°_Öƒ¥ôUan¢+ùİ9Á«éKŞ:È‡|='¡ö]ÂÎb˜µâGwv–Ñ)aOäCpµy¸ŸÓAÖÆDïŠ…pHè†»`ÔK¸ìğÓ^xƒÊö-¯Ü¹q±F¯s#²ftï½ÔÍ`É 5D†¬¡S9‰’¦Çûm¨îÈûÌÃ|ßCÕUTü´ätLg’-½±İqöÓïnÉÁ¦9İÀÑÀo‰¾¾ÔpÄÄI0tÙ»Ş`.®Ûoá&:¨PzƒQÕ¤IÊÁâ  .İ;¤å‚Un*læ¶mUÂ*î¾E&½ ƒÎ¦S½5N"mÙµÆmİ¨|{é†®Ëòğ‘Lz“í½Ùk=¾#* *dCbúÉ/åz¢ wkFtó¸ıĞ]:>À¿#»“E?'Åé%Y[ÒmpìUNpgDê½Úâ,ÇÔÙ&ÇüúÊRwŸoâ¸
+q³,¥>½¥¥©áÌé´†¹J£QyK¨®à"O:ÙËc‚~±ìrYµ"MIdCd³ºZá+ã7Í\«(1oG ÓV¨:h:XËu£çtR_° {Dû¿·Hè‡Ta{¶ÏÆ	Æ±EÔğõÇ=œMD=ÍkÑPXĞ‡gZœdX–•­áşíÅü1AÇY¬—W#ƒ¾€Àj_ô¡+qvff´ èŞuTHgdr”Td¢ñ
+‹#Ã‚ë24Qã0Ñt…šĞNMÔ$”8_â4şeñçcsYîñ,÷Eş7Y†åÙJƒ*«Dòğ7kÄSÊÅníníF±¸İ½½U<õoÀ‡½
+endstream
+endobj
+27 0 obj
+<< /Type /FontDescriptor /FontName /CQENFP+XCharter-Math /Flags 4 /FontBBox [ -1028 -1420 3101 2000 ] /Ascent 800 /CapHeight 671 /Descent -200 /ItalicAngle 0 /StemV 94 /XHeight 462 /FontFile3 29 0 R /CIDSet 28 0 R >>
+endobj
+30 0 obj
+<< /Filter /FlateDecode /Length 419 >>        
+stream
+xÚ}RMkë0¼ëW¨‡@{pı•ô%%RÛšæ5áÑ«#mRA,Y>äßw%9”ğ6Ìì¬vväÉÃv¬¸:@>Gô:ÕkAş^·d2)ëfÀ_«İ+İjÅv`èc^•æ	Å•dçÃUu_ô'!o;‡>îá+Èÿ–›õ6øÊ¿km@ïµù"Û²æŒÒÿ¨(–è½uüİ	%_iüE¥ä¹jìb	s4¼Ú=
+Éõà¬_'”fä¾¬Á„lóîÒh*yTd¹¤á';£/Îï	?4-ä	S¸c»¾mÏ`ÍĞˆdåpÄs1—Mİ íÖÇª0—»ëßö—hâpì­2Å¡kkº–' K\?ÊèrOF@ò_õxh;@y[yGe†hŠ]ÏHc‹fóQ1OgE®=³™éÌ1‹ùÈÌÏ¬nÌÔ3ùyqÌêÏÈ¼øYeî&'s
+•½¹•ïv9{Cc¬×St×èÒ²9		ãM·ªµ]îu¿Èõ/µècM~ W“ó
+endstream
+endobj
+12 0 obj
+<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /BaseFont /CQENFP+XCharter-Math /DescendantFonts [ 31 0 R ] /ToUnicode 30 0 R >>
+endobj
+31 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /CQENFP+XCharter-Math /FontDescriptor 27 0 R /W 26 0 R /CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >> >>
+endobj
+32 0 obj
+[ 9 [ 435 435 ] 12 [ 728 278 ] 15 [ 278 ] 17 [ 556 556 556 556 ] 22 [ 556 ] 29 [ 745 728 ] 101 [ 833 ] 307 [ 1000 ] 385 [ 672 ] 388 [ 560 ] 393 [ 672 ] 403 [ 728 ] 424 [ 672 ] 580 [ 277 ] 2261 [ 572 ] 2264 [ 537 ] 2272 [ 541 507 ] 2283 [ 841 ] 2289 [ 371 372 ] 2293 [ 748 591 627 518 ] 2893 [ 555 567 510 ] 2909 [ 475 ] ]
+endobj
+34 0 obj
+<< /Filter /FlateDecode /Length 44 >>         
+stream
+xÚcÈ­bc€\@ Îòp ²0Up07ÀÒp@ ½jÆ±3°  {•h
+endstream
+endobj
+35 0 obj
+<< /Subtype /CIDFontType0C /Filter /FlateDecode /Length 2886 >>       
+stream
+xÚmV	TS×Í#¼ä‚iTÒ§ë+ªØj«Å:µµj«*RêÀ¤V„ aI4 õ ˆ2O	 ‚ "PÅ Vã bµj[ÛŠØ‰ÚÁª=^ş_ÿñ‡õ×_ë¯õŞ}÷{îİwŸ{Î¹‡ÙÚŠ†áÜ|×­ò{ï¿wÃwj´¡šùëwjÃÇÜy'ŞdJŞQÄÏ`x¥¯óSméË2ñß‹ÿÔ:Êf8J¯³3D"ÑÀD¡e';NØ.›)teÓe.ã’çe³Eâ/«¼6ş?œ¯.]ú?ç9Ás.X¸p¾Ğ,q^³3Zåì¥Šùó¸Şª˜ PĞh­J›(ì@d'²ÉDÏ‰&Š&‹D
+Ñó¢)¢"¥(”YÄ¤1Fæcæ0So³†Ü&_‘!rŸüJ“'ä)yFğÖOğš°aÂ6±ˆ_ËEäb#ôf‰>•ŠzD#Œ‚	`²™_lvÛÜ²y( -~O¬—‹?µdûšm%;-—ØINKçH“¤?’Iİ;“ısö›íÛ^ ïfa,ìµˆ-Sx¾aÌEbÛÍñnØ;æ&•Ó·©sûhV;32$Á&hşSê‚«w“v)Ví…2@ ÑŠœQ3.t×Í¦J Åä¿sñã!±e.·SŠ«MOñÀ|ÀâÙøu¯"‚pF¼•Ú55xQB§i‰å‡ôXaeğ{«øærXA+¬X!ˆ¨ĞøPáW"§ßÒM8ë!ƒs/ŠORG.Bú¨ğ³;pŸô«[üU]„&HªVïÚ¾:YØÔ·é¨`¾@…ø‹s\X}lss]]sKL]xxtL˜Rîoèâ;Ãœz€­¿ˆOá{@8g=@ÆaÜ|t ³è¬ùÔÆ)ìç0°ûñğ°e6 ş³]]ıa€°tğñÜïÅø[Î¯ÍÍ‚±c†=Tš;ğ{€v*:h(…Q&¨z+Ìøš·t;ô=BÍoÚO?·Oáƒñí’Ä¥ô°ŠGö|Y@‚ìò/)G'-Zã¦2ëš•ePz°¤€<“6”×j€A°l„y@§ÒÉ”¡1ÔÈıSÏ`Ë9,êv°ş‚šŸ<†#§r~_{ã|õáOh«„Ÿ<¯Pña¢à¯ë¾ _‘G+¯Q¼d­Gd•®QÀ(Î-Ê'¤õ¦cùÍ@¾²ø-_¶9ğE'#³@¼¥•9Ùe@#¿öl[¾ĞÃ}“bÇ–‘¨!657-;Hd¼.ÚIîŸ~û®àûw˜GW0eXlâ¯o{‚o<ù9”,½C§)#!,3$•àV<{‡şI¥U¹õN A§ë[]^õ\;ßIÚ\İa|ŸM;ğQvU¼.ÊI>„‡9ş&M…¾±½ÀïÅ@¸2&ü³‚OákVœbenàk?d’àÛuä¸s­Ì¨“UŒ“ãkè+~<vW"ç•ã#çáh¼æ
+*EW*¼ úÑõoÀÊÌz~š•ùbt1‡ú¿-¾¨]ì	«¨–î‡U¨eĞfƒÀ…ZYù6°âñ‡á^??t~
+¿ttñØRü“ ×|ğšğùS"€‹¸ÉŠ›è>ñy!òèJ\Amğ-%j/R­„Î j?”øŒğzë˜^RñíïãÁ@Zëøè[TP¦+ÆYçSÎı7eù@¡±¤q€±üŒ;0 ´’,¡wQ…Ó˜›8M|S@ÜÕ nimh8qBİ¦VïRÊUĞŠgğnÃgş,6MÁ´V‰g±¤ıØÚı¦ı¥€Ş€vÈ ÎƒşĞO}Ì[Ë²7¡ªPIfá^ç±¤dÏVÀ)ãúğ[’]’],ìÚ¦;x´lå”ÉÙÉÙDî.„âïŸ8ôöäá–ï£;¼é8w>êÊ^aë‹ÅÃ€rò=9÷ôë'+áÜ¾zég¨‡úŒúR”È*FöÍé„FœÇn6mÌÿ è\˜ë
+TËúCF6~5â“=à	‹ÖúÌ‚]VZIÒŠPê+˜b]úe~úIÆ2(¶à2Úô®RvAW]ïyò‘Ô¯RÓ®¬…SEŸV“ilFâ¾Ta=%Ğ%9Õ‡šHº±¥·‹»
+ÌÄvëØ¨Ò¨C10–mõ{]µ1q=¬%ƒy.º¶h§,6/_ZÎ}¢âİö“|Nú)~úeô?ÂğsïŠ/5s]êîä^øn4u_é¾RûÜ‡'›®½Á ñö'h`ónÈ¯#@ç©Aó]9ö#w»Ù®¦Sœ…ãÛa%¸Ç¿¨ò‰Û	][+¤[CÆY^~Ùç¨?r?nPQ™_ÎİMZ66ï.ôá0«¸Üw¡÷ÈQh“N`šœ¥Íˆ$èéA¸Š?³§ÏõÔ¶B”é`'$¬7F“t=«¸©ÍJ U'X Ú
+{M¤VªÍHÈJ†HH¨ÌUv°*¯–GWâğñÜ:¨‚^Uc Âzõj¯ıÕş°<£Vx’Š_4B¬§s"G5¤·ğ¯~Â<íÿãKqÃ×œïÙ°{ÈÜ¾ö.İpzkKŒZàdC]BAV‘´û°'˜ÍPGšÃj?xåm÷7•°±5öÂöÈZ-„ÂUäš¢¤jRaa“ŠRò’Déw9…¦ÏóvÌeá ø%Ü•ƒ[h›“¥…$ğªU_ìÒSz­4JƒS"ZáHôU  ç”æTn4	Á ÔÌ(Ùş/­àL!i¼]ÃŒ²OÄmüÛÜíôÚ1çtW}Œïö¡İÑ¤†>¶‹o¢z§ÃĞ’` =ì1¦$µcµn½AÅÉ¸"§î&Œì:i•{ĞÉDÇ+ÃP©Š•ïÍ8Ë˜Ns‘5ºVå \ºv›èÌbïÂ‘´œ©$Ç¤ñÆqŞ É}!8½óqç…ÓE¤#„m,.¯„8¦9	ïÃúµtZ8:¼adíßäÅpˆLek5Õ>GÍÙâ¹=lë`£2!–ÈÍôÛ°fõYå ütoßÄ—ÛĞéÖ]Òİ æåG€}Ÿ¾äKv:“\ÁFã‹û®¯‚”¬j º!#[_¤*ØFúiëMÙÍŞ^ûˆ÷E6"S¯_Q>ÿşñ¹ƒÂÜPÉ}ª®é`ó
+r
+…;hGtï¸ äÖÀç×[ô51N{`!9|êÅ&ÅëH Ua@yYƒ¿óœWcB ›š™–•.ØW_W[¢)Vq÷psÛU©«s2Aia‘™légKÍU…GÁi'ÈÃ*Vîg<§wP¼cšò 0šŸXN[XEjî†ã;Úáœ,«/'‡N°±©)™q°²;3/“(~	»ïRfgfYZSHU Ap<lƒäÜñRe¤•-Ê[™íMä!iı›[ø©Ç~&Íİ†NÔ³†ŠŒZ!”{ª?ëx¦nÄ™×rpoÙ=Ş=èÄ]QŸƒ‚Ö¼}wpÚ.Øšj8…ÙE9Å¤ïıSÉu|©™£ïk(gØ@ä¯äéùÀn¦a/W-Á .¡Ş²¹'	hÒS’I#µg·ÏªvÎ‡ä6ï´Ø0PÂÄ¸‹­8t,§	„kjjzœAïNÆ"”}ø.÷Ò¹%UŞƒÎ²Ş6’ßÅnÚ¹5ÁŞƒğ.¸9¦\3A_(8C…¼[6xkäs¸	Õúú(’’;st…p}ˆé<:“¾ë$¯ş'ñÓe/×öãÌÕa4ùyş	§«õ(–Ğ "©rİëå®2»<™}›}[‰LÖ6¡­YöÜ? cZûb
+endstream
+endobj
+33 0 obj
+<< /Type /FontDescriptor /FontName /EWJAXG+XCharter-Math /Flags 4 /FontBBox [ -1028 -1420 3101 2000 ] /Ascent 800 /CapHeight 671 /Descent -200 /ItalicAngle 0 /StemV 93 /XHeight 462 /FontFile3 35 0 R /CIDSet 34 0 R >>
+endobj
+36 0 obj
+<< /Filter /FlateDecode /Length 534 >>        
+stream
+xÚ}”M‹â@†ïù½Á9dìîÄLDˆùX\˜FÙõ“Ò	h'tâÁ¿İUjÃ"+(<oUu½«3úñ¹ö“ºİ<sö}{Öøé[Ùy£QÖVç¨á †úí_Ù§n«5lœ®²•j†'“¼RÕñ\Ã-ëqÒr)¶o`ëç~%ÛŸş6ı.õ Ú+‡oŸÛ’M3Mê²˜	±G!†üİ7­zeâ™sn„\Õi{²ƒõŞäjMnv÷ªõÕ!ÛY¿¬nªáJø[Ì²ÅëK?Ài¥ö­7Ÿ³É—	öƒ¾ ß'oò¡kĞ:°ñ#ƒ&a}îº#X3Œ{‹«aoÎ5Ïå½<›Ø©Wµ‰6Ãåáø®`sé€IdAV«¶†¾++Ğ¥:€77ãó›æ³ğ@ÕÿÄƒ)•íö•i€é3“Î¹ŒH	ÑŒ(%ZeD)QA”#	p"I$ˆ"IDÑ”ˆ:ÔAäDR4EJ0&{¦3<SÄ¶»”œ…DÑŒç3¬“‚ê’I¾X’!Õ¥è%Îl¿,¦Y¤ÄN‰PÉ¹SrR„S
+R–weš R¸œˆ“""Hqİ£”È)ä°xq
+ù)œÃgZ†ÙM)xDJî”kNá|JË©«2]£ë¾Ø…²·â¾¼ÕYk³¹xupCín6
+î·«k;[…_¼–·7ƒ¥ÂûÈÁ>­
+endstream
+endobj
+11 0 obj
+<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /BaseFont /EWJAXG+XCharter-Math /DescendantFonts [ 37 0 R ] /ToUnicode 36 0 R >>
+endobj
+37 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /EWJAXG+XCharter-Math /FontDescriptor 33 0 R /W 32 0 R /CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >> >>
+endobj
+38 0 obj
+[ 9 [ 417 417 ] 13 [ 278 ] 15 [ 278 ] 17 [ 556 556 556 556 556 556 556 556 ] 27 [ 319 ] 35 [ 604 632 693 576 537 ] 42 [ 324 ] 45 [ 520 ] 48 [ 731 558 ] 51 [ 646 556 597 ] 66 [ 507 539 446 565 491 321 523 564 280 ] 76 [ 517 282 843 568 539 551 ] 83 [ 382 400 334 569 494 771 503 495 ] 904 [ 1000 ] 908 [ 201 ] 915 [ 590 ] 1107 [ 574 ] ]
+endobj
+40 0 obj
+<< /Filter /FlateDecode /Length 28 >>         
+stream
+xÚcH­Ÿ ¯r‡Áşııô 8$ æy)
+endstream
+endobj
+41 0 obj
+<< /Subtype /CIDFontType0C /Filter /FlateDecode /Length 4437 >>       
+stream
+xÚmXX×e™İq•»ö‚"`‰…ØAŠA "X iK]&ˆhÊÁ€¢(EE,THQlh¢‰F,kPbObÎK’wBb¾÷öã»ÌÎÜÓşóŸsî¬ˆÑÕeD"‘¡ÓÂO¸¯Xèçá6iYp‡Zûd±0\úFÂPF&Œt¥XPé‘¾ø¢¾n×ö.‹¡’aCuëÙa#JïOW]ƒßé WCõGiowéf8FÄ2C˜çL'U+é‹ş_£f&ææfƒC¢Ãü}ı"Tf3gšª<ÂUj•F¢ñô÷ó^§Š
+PyF«øG„G„y{©lÔ^&*ÕüÀ@U·`¸*Ì;Ü;,Ò{‰Jïuã¼Æ«ÌMMgN¤«™i÷jÖ½š«æ«×…yG«–›¨<ÔÁ‘ÿ+e6eÒ$sSó)ªOü½ü<¼UNÔïï‰*OpêR°ú=oş
+IÕ’‰ŞŠ}ïıfä8]°§·Í:ou„D4C?}=¦ÓŸ1`äÏd·AÌ»‘Ì(f43†ËL`&1¦Œ3…™ÊLc0™EŒ%cÅ,f¬Æ–YÂ|ÂØ3KÆ‘qb>eœ™åŒ³‚qeVŠ?§ˆÓuÄ4!ô3™¦MÍHf“É\a^Š¦Š|E—tœu¶étˆÄq©î\İ|İßX7öûH2X²YòL-ı³ãûëÒ§Mo†^Zßµ}ÏëÑÑ?Òo~¿¼~?ÈÜe5ıçôëk@¿.°
+[ƒ@ƒ?§B½`Y/ª¯ÇÆzq½¡0J(ì%©ïŠR–ØØe)•‘9dDEgN…èİ±`Øé© VšÑÄÈ ;ßc\ÅUHÉà<{”& &7ã@vûG#ˆ‹¨¤‡‡…7“@’$Ø9ÁÑ›ö¿CcÀ€{F£1±:@e/‘Kpä+?/>N>V¼Éøæ6<äZ‚Ê\ıÃ4ë :->#kI”ÀŸÕâµ"IÈ‹¾G^ŒJÔSø©ƒ}}BJKóóKË‚óı”²À„ZáEèdûQŒEsdä$êD(	í <Ä‘Èc(†NB9©t×}Z?š¬$+]GO¼â®D·†·O©¨
++®D‰0õ±[´j‚lÁÍò¡«4!†H·ÀZ|PA˜´„,è±Tä0/Ç4È/¿Á°U¼€Ãï(¨­EØY@9‡¬Å-¢ ¦,²ôÏÕ”eCVZæ.îWiaNÁBhƒz'˜d1 "L¬¸%RşÁg¬–DO§k°ìîn7ÿˆaí6O©…ëøNñ2¿á´roæ|Mô‰Á4k›€šbª|Oêî\‡´`ÑÎRàZëWXÌrv£L†ä”dà¤û¾Ú›’ÿËóÓ«,Ìm¬L•Aœ’Í>`S7¥$®Q¯¸ã€}ÑäU;ê*¡İî§s²@\~E˜NñyÛ*t;g*HG×t°ÅïHl+ ÆÒá
+¡‹0CD
+šmÊ“ªñò%\r[ôæn|*~Ó9EAÚ¤R¶•‡Êkî£Lì¬')5‘ªIç¼²›¶mNÙœ¸&ĞíÚªŸpÆO/P’é·É`e øn]—È¡;Öİ–jso/ o³¨şjK;W+È±d™IyÌë—D„CpØ/?Ó•7o'}À!ÒÅ«­ŞvàTà¾’rMq²°.«	¸çíF_:wÆ$çû8E	û w[.]xzKômø[­ë³k¤ÙíxÈßõÛ àƒÎÁp‚•‘\JTL¤d}®%ëA£ğñõËW—–”–©ø)ÉŸº~Á”Àù”À”Àj-s *1£fÍ)ù¯?`è«e/ù;%ÔxÛ’]µ1ñË¶‚'æ ‹sÚ¯£\	/­/’¾)ïùáº¸Å¡ÎÜÓd’‘)9§à_à.)ïPÊ¾m{(¾:g<gMpô ÊØS8r]÷K§–l;L™pÅgÖšùÄ“b	š”ğmœ¬*¡QxØ(ªüI0<+ä)ĞÜIª!âØX6(IıY0pdú8ÔÅe¸ø28^yÊ’Êc¸=ÑY¦g)LØy6@ÖQe÷ÿAW	÷«}uhsüUø®í¾šÇÉŞAµp«ZDcşùµğ’ü;f ö5ÜÊø¦á?—*ŸöåĞ‡|€d“ÑŒUŠ;´{2‰¸åæÆÄNi!‘%B5–Tãöj-’5ÏÆæ+1vãG.’˜1ñ±$—:X‚3 3n×Âzâ›ÄÇ“ôz;Æ›Çò]™ÓµŒé
+‡%•¹ÂIÌ¯Æìn·jö6‰K1í¤dQZL&íu=Šh‡¾§85°'ÍšØD¿˜vEP­WŞ×J²á¤ğè„¹vq©!n?)±Óêjs2[¶Ã	²
+´ô
+ØQk
+İNh}ØuZ|ÄPG[Ñ§FÒú»”“yN+÷9•»Ü+·„Êá¨ØF¡ãŒ¨ògÁæ± Ó¹H1æ-u´¶õ3"¢¥¦ßØ4;µ= äàuóÙçG›s®ÂMPäûƒõ•¥Íó§ç¬‹Š'D—Ø{sÂÒgh,Ú£ÃÔAC¥LMqò­ÅÛİ8myö/”\Ù¢Ï}±’sÚËGtªLœvš|ª$¼$ïƒ‚30GßJ÷nÛ´gáÀ‹+UDÇŞH”q Ù¦şŠ“ß\³î$î®¢)×æ;î5÷ÿê&	àä²nËIìŞ”œ”,h‡ã¡GfæÚ¥ÚÖzp|]^TIRäÁ¡¯
+·sÇ’¤s!`·æ|tÍ—MÁÕQ%ş¹+÷ sğÌY:¨°¿Å92İÈt•¢V‚.x·lÑWnhL¡‚VÎ“zù…ónÏğ³§§ùgö+ª£.%|´×¼jÔƒSqåê‚UUÎÙ+r9şÆäãn‡hAÜh¨} ¥P˜|(ËŠÉšxšòd2ë°Ïiç§@F€¹Ğ¾:¡ÙÅnÿEîÍÑ0,]'ÀjğNWgqsPê ¬l¥Rš¬ª–g7¡m;Ú6ÊßËÖV—I“4óË×ef¡	@×¥èxk->™ë´hÊ·Kô¾–ÿ÷2MšºY6;ùŒ{Æ•â¨SòŠÇv¯Ñ¢ÄGÍŠ=8 lyZt6`%ûfMå"Ÿëbœgtí¾äHÆÁ´CÀ}·½…2@Ê×w·ÉA0æÕ-¿\-4¸\ÉÕuU{Æ®W*:¸qù?ÎÉÜ JÖˆVEeQ¢‡møÅbÔ¡ ı}!ğ6Àïf8¶B':ŸæáĞÙO‰r¬Np‹à°Dú»•® /-ÙU¸Z}ÎŠNV£¥öÄP¹6tçˆO>/Œ<!*oG—7báã
+Åi©G°güàFÚÜÀş(¿ØúP™Ù[³’¸™Ò¬MY[³€;z ·¸Ùù„1QMCÆ“qOÆâPå8“ÓTÌÉ4I—ËÓShI=–—=Æİm|ƒÀwš)ˆƒ4pGPª¶eN®"S‰êş$)› vÃIßè‚ãÊ¤ni1ÙĞ9ÛˆŒÈ¶vµ*øŸß_àÌ–~‹}Ğàú½7ÊƒP¸åè&Nfœt*px•¨ü!&>Ÿ¾S,óvrnŒõ-¨ÌÀViJì‚]”¯‹nÒ“Åà	£ˆ1Û>?0ºWö_8Á™ã‰•lpîlp_—¯™¥”‘}P&(jÜ‹ñT”üu_U`ˆñe’O´ş	Ë·¢ª†(oHàşÓ•û¹ö¥ìáYûà WphÑ›>Ì2‚D–¯²‹ƒ€Ê0&:v9í:vD]O£OMâqù‰»7İÀ†İäŸ0+x)øŒ÷>Ÿ =˜»&À¼‡ÖÄxÇB(G7BljÜöxÿ1qq‚—ØÁì«+Q
+·àZ^cåñâÜJ(‡›.EDo/gœÅ~™ñe:¤AvjÖL.GÂÿÀ ÷ı×O”PšT°¡€NÅ	“!ûÍ'ÜçÎórstôªı^Ùz¢ºÙÈ«k–âE4Ë_L¼¾±8œ9§¥®æ3é8UTŞ”ÃÉ"(L^íáçó6ôoãp-?µé£'¡.!&Öy+øb0-÷îyÌV(Ï(îæ‘ t"î‰u×îPÿ]B¥ìk÷ÓSÖ‚K„µ‡Íôˆ~šá©z¬Ê#7®ÿÆt®P„†­8V\|øP±²8ôp€Q*	S©–=ü/×Éº°\k@C8§Ñ»Ô†0Ÿ•YB:å£c9:ôx/>dˆÁe’7ç4!Ëa=š³K#‹0‡áè–t('Ë |ØªÏvÄ“Idî:e41öïé k†²Î~ZÍ?·‰óqc™d™Vóßìşk¯ƒvíì/ìªüM®nÃ5m|°R°PDœòÎ[	ài³kò¦‡ÂQÑoéAó÷í.Š,_wŠb[Ü…üõ–=Øºi÷ø¿~î±İıKíˆ~ı˜nô_¹6ZyÁ²ˆyk8Ù†÷<ó§uPØQ¯ÁÿI¥[¯KÎ){íÖÊÚTjhıw ¬Ì-©R0¯•w`a‡	
+2¤§±¼ƒqğ«·8ÇK†(×êŞkşX;`çÌšíx›„ÏµŞSÊ|‰ºW	ıŠ4—åmôµ…¿—GÔ
+L(Ó¨³Ùò-tÒÒÙ9îå[4GÕÌ¢£t÷¨å^İn½èu««µÛ-4Ád>¡€;P²û(pÎ[)é¿Øb¼2‚ÓÖgĞöéA$<üäû…E¾€B³¥LbÙmğ8{²¶ôÍ1r6ï‰åŠJø‚ÈR£`3$Áæ/è#_µo€Ÿ/×AØó.=‚,MªÀ[ÈFVÊ+j½î¢ñm»:zF}!ø+øÿ¬u;Ö ‘À˜Ö§x_*‹p÷õw5}•	Îæø“	Ü¨FC¶tã©ÍÚ‘{í<ƒòøÂğ}ëxgúåp|‘Óu.TBUá‘F8“ÓÖr9}Q dûçBŸÑã6ñc¾æÜ’.Êj3:U;j²¸riÄÖˆÏ#€³ÜXrK‰98±†L|ç#]kb£¦å'‹ŞÔBgÁ ¢ò(ù‹nòÔámz9Ÿ@KØ±µËÕAcŞ…JsÒN€nš
+V´Fz·=¥´öŒòŞäœuĞÑï”x_*3ÉÊE[é›ø\Ü‚ÓºlÏ.¬ÏkËÓ’–ç™ÏÒcÉ@r—ôÁ»»³SÙr©—ôˆ}Ñ+öa—í%ZæBì×ÕŸ^¬Ï¾¯`4¹Í=Andp—Üok5A9+ûÊãrÑŞE‰8˜¼Gçe›ÁÊ—íØºû-~FÆoİì‘L›ú—K–¦“±¸?À…gwQ#ÖÔHí–ô¦dàG8(mWõv­æÉÄ5²sB¹èË^-º¬Ø°Ej×5g|Œ‰MŠ†(X$¢®@mS²ôPˆiÖºmÕ·i!úØÒë­`†>Eè£û[ÜÅ?â$².CáÏŠÏ‹o
+öŠ–‹Åáw6 Ìİ7<,ÀRvnä®H¶m†dÊU÷•Ë9ÙW…"œ€bœ pŠÙ-¶wï^¹zç®m‹Ål[»ÙF²=#³‡ÿT«šĞ6óg¾¿ë4PìÎÌC\QèÏáæcÉT#ˆeù»Xü{8ÒÆFÇŠ‹=÷YçŞöäKØ®–os! 7X¸»¯şøß‹fn
+u^DAA^^A~DÚ(H£Q+eÚŸCôÇcfˆö7Â-r(ÜWÄfš\¼·&]BÔ }½J½¶¾ÿZ!s
+endstream
+endobj
+39 0 obj
+<< /Type /FontDescriptor /FontName /SCTUBW+XCharter-Roman /Flags 4 /FontBBox [ -509 -424 1565 1213 ] /Ascent 963 /CapHeight 671 /Descent -236 /ItalicAngle 0 /StemV 93 /XHeight 481 /FontFile3 41 0 R /CIDSet 40 0 R >>
+endobj
+42 0 obj
+<< /Filter /FlateDecode /Length 589 >>        
+stream
+xÚ}”Ánâ0E÷ù
+Ï‰.RÇv BH@b1mÌL·!~0‘À‰’°àïÇö­T¡Aéà÷rßqâ~¼ïÂ¹®&ÏÛR[]›‚Âìg^ƒÁ²*®2İ+‘&}_m_Ø{S;êØ0Û,7¦ìlñÆç«¦{Õã¢JóUârØpOá.ÛÿZü	?²¿yÓQn«KnÂÈõìËîlkÿWÆì{¸Æü%~SÓ–•yañsEö•ÑYuqnm0êçc£ûÄÇÒè¦’ÜÈAÌ™.‹®'ÿ[\ì&¹æİ­íè²1Ç*˜NÙhkÛ®¹ù‰Ÿ‚Ñ[£©)Í‰Nh+v×º>“›†EÁlÆ4í…íŞ¼æb#'¾Ñvµìnwà«c«‰qÏ1†-*MmÔäæDÁÔn@4cÓµıÌ2úÛºäh;›àË'¶<Šøxæiš€– ´­<Å±§$qPJ@$@	H‚H$()Ğ”‚ ¹'[[[Û$­A°•°M.‘ ]"=AºDºÀ¾(ì‹@ŸBŸ@ŸBŸ@Ÿêû0µÂÔS+L-°/
+û"pÿîŸ€‘‚‘Uñ´ ÁOÁO¬@Kî­Â½•pWp—pOá.áÂAÂ!…ƒ„C
+	‡)$R8H8¤ppH½C2v•Ü=D2Ö&‰'îgıdJÁß>üıSî;ÍŸg®¸6=pşÈûsåNTièó­PWµëò_ÿ:¹¿Ô½­ƒ	E^Õ
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /BaseFont /SCTUBW+XCharter-Roman /DescendantFonts [ 43 0 R ] /ToUnicode 42 0 R >>
+endobj
+43 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /SCTUBW+XCharter-Roman /FontDescriptor 39 0 R /W 38 0 R /CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >> >>
+endobj
+19 0 obj
+<< /Type /Pages  /Count 1 /Kids [ 3 0 R ] >>
+endobj
+44 0 obj
+<< /Names [ (Doc-Start) 8 0 R (Item.1) 10 0 R (Item.2) 13 0 R (Item.3) 14 0 R (Item.4) 15 0 R (Item.5) 17 0 R (Item.6) 18 0 R (page.1) 7 0 R ] /Limits [ (Doc-Start) (page.1) ] >>
+endobj
+45 0 obj
+<< /Dests 44 0 R >>
+endobj
+46 0 obj
+<< /Type /Catalog /Pages 19 0 R /Names 45 0 R /PageMode/UseOutlines/ViewerPreferences<</DisplayDocTitle true>>/Metadata 4 0 R /OpenAction 1 0 R >>
+endobj
+47 0 obj
+<< /Title(\376\377\000C\000S\0003\0000\0005\0000\000:\000\040\000E\000x\000e\000r\000c\000i\000s\000e\000\040\000S\000h\000e\000e\000t\000\040\040\024\000\040\000I\000n\000d\000u\000c\000t\000i\000o\000n\000\040\000I\000I\000\040\000a\000n\000d\000\040\000F\000i\000r\000s\000t\000\040\000O\000r\000d\000e\000r\000\040\000T\000h\000e\000o\000r\000i\000e\000s)/Subject(\376\377\000L\000o\000g\000i\000c\000\040\000a\000n\000d\000\040\000R\000e\000a\000s\000o\000n\000i\000n\000g)/Creator(\376\377\000E\000m\000a\000c\000s\000\040\0002\0009\000.\0003\000\040\000o\000n\000\040\000U\000b\000u\000n\000t\000u\000\040\000L\000i\000n\000u\000x\000\040\0002\0004\000.\0000\0004)/CreationDate(D:20250815120000Z)/ModDate(D:20251119103553Z)/Producer(LuaHBTeX, Version 1.22.0 (TeX Live 2025)) /Trapped /False /PTEX.FullBanner (This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)) >>
+endobj
+2 0 obj
+<< /Type /ObjStm /N 1 /First 4 /Filter /FlateDecode /Length 45 >>         
+stream
+xÚ3T0à²±QĞVĞwÏÉWĞwQˆV0V0PRĞwË,QˆU°³ã –h&
+endstream
+endobj
+48 0 obj
+<< /Type /XRef /Index [ 0 49 ] /Size 49 /W [ 1 2 1 ] /Root 46 0 R /Info 47 0 R /ID [ <AB6E135A47135EEB8D3B13B53FD1A906> <AB6E135A47135EEB8D3B13B53FD1A906> ] /Filter /FlateDecode /Length 170 >>        
+stream
+xÚ»AE×Vé¦™F¢Õ©ù€Ñø‰†ñåt
+ô‰AE‰F1É >poBA+»X9¯}ö9À+B]¾Q3…øDí
+jt]÷M€ÔŠ£ÿš¥çLİìĞ°j}Ô|¡ áxFı%ê”Ì
+zhäşèŠ&y4.k¦ÖÏ¼ÿ[Ch¢EÑùÃwîh½@ûÚÆÌ:$ÑÉóÀ¾¡ıÂ¬¹ùï'o½Í:2
+endstream
+endobj
+startxref
+59386
+%%EOF
