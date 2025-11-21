@@ -1,0 +1,5 @@
+=== INSTRUCTIONS ===
+- Run "./build.sh" to build the Java files in src/
+- This will also create a file "./lrchecker"
+- To execute the Java program, simply run:
+	./lrchecker [--check | --test] [file.nd | file.sq]
