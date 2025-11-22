@@ -4,13 +4,10 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 
 
 public class LRChecker {
-    private static boolean test_mode = false;
-    private static boolean check_mode = false;
+    private static String mode;
 
 
     private static void args_validation(String args[]) {
@@ -21,9 +18,9 @@ public class LRChecker {
         }
 
         if (args[0].equals("--check")) {
-            check_mode = true;
-        } else if (args[1].equals("--test")) {
-            test_mode = true;
+            mode = "check";
+        } else if (args[0].equals("--test")) {
+            mode = "test";
         } else {
             System.err.println("error: usage: lrchecker [--check | --test] [file.nd | file.sq]");
             System.exit(1);
@@ -58,7 +55,7 @@ public class LRChecker {
             file_lines.add(line);
         }
 
-        return file_lines.toArray(new String[0]);
+        return file_lines.toArray(String[]::new);
     }
 
 
@@ -77,8 +74,16 @@ public class LRChecker {
         } catch(IOException e) {
             System.err.println();
             System.exit(1);
-        } finally {
-            for (String x : file_lines) System.out.println(x);
+        }
+
+        switch (mode) {
+            case "check" -> {
+                // Proof checker mode
+            }
+            case "test" -> {
+                // Validity tester mode
+            }
+            default -> System.exit(0);
         }
     }
 }
