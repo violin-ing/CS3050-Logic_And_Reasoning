@@ -9,21 +9,20 @@ import java.util.List;
 public class LRChecker {
     private static String mode;
 
-
     private static void args_validation(String args[]) {
         // Parse arguments
         if (args.length != 2) {
-            System.err.println("error: usage: lrchecker [--check | --test] [file.nd | file.sq]");
+            System.err.println("error: usage: ./lrchecker [--check | --test] [file.nd | file.sq]");
             System.exit(1);
         }
 
-        if (args[0].equals("--check")) {
-            mode = "check";
-        } else if (args[0].equals("--test")) {
-            mode = "test";
-        } else {
-            System.err.println("error: usage: lrchecker [--check | --test] [file.nd | file.sq]");
-            System.exit(1);
+        switch (args[0]) {
+            case "--check" -> mode = "check";
+            case "--test" -> mode = "test";
+            default -> {
+                System.err.println("error: usage: ./lrchecker [--check | --test] [file.nd | file.sq]");
+                System.exit(1);
+            }
         }
     }
 
@@ -45,19 +44,17 @@ public class LRChecker {
         }
     }
 
-
     private static String[] parse_file(String file_name) throws IOException{
-        List<String> file_lines = new ArrayList<String>();
+        List<String> file_lines = new ArrayList<>();
 
-        BufferedReader buf = new BufferedReader(new FileReader(file_name));
-        String line;
-        while ((line = buf.readLine()) != null) {
-            file_lines.add(line);
+        try (BufferedReader buf = new BufferedReader(new FileReader(file_name))) {
+            String line;
+            while ((line = buf.readLine()) != null) {
+                file_lines.add(line);
+            }
         }
-
         return file_lines.toArray(String[]::new);
     }
-
 
     public static void main(String[] args) {
         // Validate arguments
@@ -87,14 +84,3 @@ public class LRChecker {
         }
     }
 }
-
-/**
- * === ASCII SYMBOLS ===
- * - 0 => falsity
- * - & => conjunction
- * - v => disjunction
- * - > => implication
- * - ~ => negation
- * - forall => universal quantification
- * - exists => existential quantification
- */
