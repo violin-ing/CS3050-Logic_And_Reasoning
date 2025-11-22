@@ -61,21 +61,6 @@ public class ProofChecker {
         }
     }
 
-    private boolean check_falsity_elim(ParsedLine line, Formula f) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'check_falsity_elim'");
-    }
-
-    private boolean check_double_neg_elim(ParsedLine line, Formula f) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'check_double_neg_elim'");
-    }
-
-    private boolean check_double_neg_intro(ParsedLine line, Formula f) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'check_double_neg_intro'");
-    }
-
     private Formula get_dependency_formula(ParsedLine line, int index) {
         if (line.dependencies == null || line.dependencies.isEmpty()) return null;
         
@@ -89,6 +74,19 @@ public class ProofChecker {
             return null;
         }
     }
+
+    // Helper function: checks if f1 == ~f2 OR f2 == ~f1
+    private boolean is_contradiction(Formula a, Formula b) {
+        if (a.get_type() == Formula.Type.NOT) {
+            if (((Not)a).formula.equals(b)) return true;
+        }
+        if (b.get_type() == Formula.Type.NOT) {
+            if (((Not)b).formula.equals(a)) return true;
+        }
+        return false;
+    }
+
+    // === CHECKER FUNCTIONS ===
 
     private boolean check_and_intro(ParsedLine line, Formula res) {
         // Rule: From A and B, infer (A & B)
@@ -152,5 +150,49 @@ public class ProofChecker {
 
         if (!implies_stmt.left.equals(antecedent)) return false;
         return implies_stmt.right.equals(result);
+    }
+
+    private boolean check_double_neg_intro(ParsedLine line, Formula res) {
+        // Rule: From A infer ~~A
+        Formula parent = get_dependency_formula(line, 0);
+        if (parent == null) return false;
+
+        Formula expected = new Not(new Not(parent));
+        return expected.equals(res);
+    }
+    
+    private boolean check_double_neg_elim(ParsedLine line, Formula res) {
+        // Rule: From ~~A infer A
+        Formula parent = get_dependency_formula(line, 0);
+        if (parent == null) return false;
+
+        if (parent.get_type() != Formula.Type.NOT) return false;
+        Not n1 = (Not) parent;
+        
+        if (n1.formula.get_type() != Formula.Type.NOT) return false;
+        Not n2 = (Not) n1.formula;
+
+        // The inner formula (A) must match the result
+        return n2.formula.equals(res);
+    }
+
+    private boolean check_neg_elim(ParsedLine line, Formula res) {
+        // Rule: From A and ~A, infer 0
+        if (res.get_type() != Formula.Type.FALSITY) return false;
+
+        Formula f1 = get_dependency_formula(line, 0);
+        Formula f2 = get_dependency_formula(line, 1);
+        if (f1 == null || f2 == null) return false;
+
+        return is_contradiction(f1, f2);
+    }
+
+    private boolean check_falsity_elim(ParsedLine line, Formula res) {
+        // Rule: From 0 infer anything
+        Formula parent = get_dependency_formula(line, 0);
+        if (parent == null) return false;
+
+        // Parent must be 0
+        return parent.get_type() == Formula.Type.FALSITY;
     }
 }
