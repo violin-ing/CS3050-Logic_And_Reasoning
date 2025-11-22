@@ -1,5 +1,5 @@
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.regex.*;
 
 
@@ -8,14 +8,13 @@ class Lexer {
     private int current = 0;
 
     public Lexer(String input) {
-        // 1. (\|-) -> Matches turnstile |- exactly
-        // 2. ([a-zA-Z][a-zA-Z0-9']*) -> Matches identifiers (inc z0, x', forall)
-        // 3. (-[a-zA-Z][a-zA-Z0-9']*) -> Matches rule names starting with dash like -premiss
-        // 4. (&-i|&-e[12]|v-i[12]|v-e|v-mtp|>-i|>-e|>-mt|~-i|~-e|0-e|A-i|A-e|E-i|E-e|id-i|id-e) -> ND Rules [cite: 86, 89]
-        // 5. (\d+) -> Numbers
-        // 6. (0) -> Falsity
-        // 7. (.) -> Single char symbols
-        
+        // Group 1: (\|-) (turnstile)
+        // Group 2: ([a-zA-Z][a-zA-Z0-9']*) -> (inc z0, x', forall)
+        // Group 3: (-[a-zA-Z][a-zA-Z0-9']*) (-premiss, -assumption etc.)
+        // Group 4: (&-i|&-e[12]|v-i[12]|v-e|v-mtp|>-i|>-e|>-mt|~-i|~-e|0-e|A-i|A-e|E-i|E-e|id-i|id-e) ()
+        // Group 5: (\d+) -> Numbers
+        // Group 6: (0) -> Falsity
+        // Group 7: (.) -> Single char symbols
         String regex = "(\\|-)|(0)|(&-[ie][12]?|v-[ie][12]?|v-mtp|>-([ie]|mt)|~-[ie]|0-e|[AE]-[ie]|id-[ie])|(-[a-zA-Z]+)|([a-zA-Z][a-zA-Z0-9']*)|(\\d+)|(\\S)";
         
         Pattern pattern = Pattern.compile(regex);
