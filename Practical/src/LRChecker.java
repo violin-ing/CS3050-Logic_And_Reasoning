@@ -12,7 +12,7 @@ public class LRChecker {
     private static void args_validation(String args[]) {
         // Parse arguments
         if (args.length != 2) {
-            System.err.println("error: usage: ./lrchecker [--check | --test] [file.nd | file.sq]");
+            System.err.println("Error: usage: ./lrchecker [--check | --test] [file.nd | file.sq]");
             System.exit(1);
         }
 
@@ -20,7 +20,7 @@ public class LRChecker {
             case "--check" -> mode = "check";
             case "--test" -> mode = "test";
             default -> {
-                System.err.println("error: usage: ./lrchecker [--check | --test] [file.nd | file.sq]");
+                System.err.println("Error: usage: ./lrchecker [--check | --test] [file.nd | file.sq]");
                 System.exit(1);
             }
         }
@@ -30,7 +30,7 @@ public class LRChecker {
         // Check file existence
         File file_obj = new File(file_name);
         if (!file_obj.isFile()) {
-            System.err.printf("error: cannot access '%s': No such file or directory\n", file_name);
+            System.err.printf("Error: cannot access '%s': No such file or directory\n", file_name);
             System.exit(1);
         }
 
@@ -39,7 +39,7 @@ public class LRChecker {
         int len = file_name_parts.length;
         String file_ext = (len == 1) ? "" : file_name_parts[len - 1];
         if (!(file_ext.equals("nd") || file_ext.equals("sq"))) {
-            System.err.printf("error: '%s': file extension not allowed\n", file_name);
+            System.err.printf("Error: '%s': file extension not allowed\n", file_name);
             System.exit(1);
         }
     }
@@ -76,6 +76,19 @@ public class LRChecker {
         switch (mode) {
             case "check" -> {
                 // Proof checker mode
+                List<ParsedLine> proof_lines = new ArrayList<>();
+
+                for (String line : file_lines) {
+                    if (line.trim().isEmpty()) continue;
+                    proof_lines.add(LineParser.parse_nd_line(line));
+                }
+
+                try {
+                    ProofChecker checker = new ProofChecker();
+                    checker.check(proof_lines);
+                } catch (RuntimeException e) {
+                    System.out.println("Reason: " + e.getMessage());
+                }
             }
             case "test" -> {
                 // Validity tester mode

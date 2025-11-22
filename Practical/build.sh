@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Compile Java files
-# javac ./src/*.java
-javac ./src/LRChecker.java
+javac ./src/*.java
 
 # Create wrapper for LRChecker
 rm lrchecker

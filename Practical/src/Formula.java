@@ -8,26 +8,22 @@ public abstract class Formula {
         PREDICATE, AND, OR, IMPLIES, NOT, FORALL, EXISTS, FALSITY
     }
     public abstract Type get_type();
-
     public abstract String to_string();
+
+    @Override
+    public String toString() { return to_string(); }
 }
 
 /**
- * For 0 (i.e. not)
+ * For 0 (result of a contradiction)
  */
 class Falsity extends Formula {
-    Formula formula;
-
-    public Falsity(Formula f) {
-        formula = f;
-    }
-
     @Override
     public Type get_type() { return Type.FALSITY; }
 
     @Override
     public String to_string() {
-        return "0" + formula;
+        return "0";
     }
 
     @Override
@@ -62,6 +58,31 @@ class Predicate extends Formula {
         if (!(o instanceof Predicate)) return false;
         Predicate p = (Predicate) o;
         return name.equals(p.name) && terms.equals(p.terms);
+    }
+}
+
+/**
+ * For ~A (ie. not)
+ */
+class Not extends Formula {
+    Formula formula;
+
+    public Not(Formula i) { this.formula = i; }
+
+    @Override
+    public Type get_type() { return Type.NOT; }
+
+    @Override
+    public String to_string() { 
+        return "~" + formula; 
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (!(o instanceof Not)) return false;
+
+        Not n = (Not) o;
+        return formula.equals(n.formula);
     }
 }
 
@@ -134,7 +155,7 @@ abstract class Quantifier extends Formula {
     @Override public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        
+
         Quantifier q = (Quantifier) o;
         return variable.equals(q.variable) && inner.equals(q.inner);
     }

@@ -1,0 +1,4 @@
+1. (A & B) -premiss :
+2. C -premiss :
+3. ((A & B) & C) &-i : 1, 2
+4. (C & (A & B)) &-i : 2, 1
